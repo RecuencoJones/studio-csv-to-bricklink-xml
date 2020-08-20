@@ -1,0 +1,7 @@
+{
+  "name": "studio-csv-to-bricklink-xml",
+  "dependencies": {
+    "csv-parser": "2.3.3",
+    "xmlbuilder2": "2.3.1"
+  }
+}
